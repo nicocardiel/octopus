@@ -94,7 +94,7 @@ At the end, a file will be saved with the results for each field.
    :width: 80%  
 
 Suggestions
-============
+-------------
 
 The coordinates of an image area can be obtained positioning the mouse in this place and pressing the ``Tab`` key. Then **octopus** will show, in the alphanumeric window, the position in equatorial coordinates and for the B1950 an J2000 equinoxes. This system is very useful to locate one particular object.
 
