@@ -82,7 +82,9 @@ We have a fibre spectrograph that can position the fibres in a 40'-diameter fiel
 
 We will configure each field taking into account the following restrictions:
 
-* At least 10 galaxies from the lists should be pointed at.
+* At least 10 galaxies from the lists (:download:`list1<images/list1.pdf>`,
+:download:`list2<images/list2.pdf>`, :download:`list3<images/list3.pdf>`)
+should be pointed at.
 * The 4 fiducial fibres (in green colour in the **octopus** window) will be always positioned centred in the field stars.
 * Four fibres should be centred in object-free zones to register the sky background. They should be evenly distributed in the field.
 * The fibres cannot intersect due to design mechanical problems. If two o more fibres intersect, the program shows them in red colour and warns about the existence of a configuration problem. In this case, the conflicting fibre must be parked and another configuration should be used.
