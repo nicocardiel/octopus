@@ -14,7 +14,8 @@ Atmospheric Sciences Departament of the Universidad Complutense de Madrid.
    :align: center
    :width: 80%  
 
-Contents:
+Documentation outline
+---------------------
 
 .. toctree::
    :maxdepth: 2
