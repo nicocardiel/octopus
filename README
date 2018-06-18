@@ -1,5 +1,6 @@
 octopus is a simulator of fibre spectrograph, developed by N. Cardiel
-(cardiel@ucm.es) and used as a teaching tool in the Astrophysics and
+(cardiel@ucm.es) with the help of Sergio Pascual (sergiopr@ucm.es), 
+and used as a teaching tool in the Astrophysics and
 Atmospheric Sciences Departament of the Universidad Complutense de Madrid.
 
 This program is free software; you can redistribute it and/or modify it
@@ -7,6 +8,6 @@ under the terms of the GNU General Public License as published by the Free
 Software Foundation; either version 2 of the License, or (at your option) any
 later version.
 
-Maintainer: Nicolás Cardiel, cardiel@ucm.es
+Maintainers: Nicolás Cardiel (cardiel@ucm.es), Sergio Pascual (sergiopr@ucm.es)
 Webpage (documentation): http://octopus-simulator.readthedocs.io/en/latest/
 Webpage (source): https://github.com/nicocardiel/octopus

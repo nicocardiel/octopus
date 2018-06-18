@@ -7,7 +7,7 @@ Welcome to octopus's documentation!
 ===================================
 
 **octopus** is a simulator of fibre spectrograph, developed by N. Cardiel
-(cardiel@ucm.es) and used as a teaching tool in the Astrophysics and
+(cardiel@ucm.es) with the help of Sergio Pascual (sergiopr@ucm.es), and used as a teaching tool in the Astrophysics and
 Atmospheric Sciences Departament of the Universidad Complutense de Madrid.
 
 .. figure:: images/octopus_screenshot2.jpg
