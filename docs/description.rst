@@ -1,7 +1,7 @@
 .. _description:
 
 Description
-============
+===========
 
 The **octopus** program is designed to visualize fields and fibres at the same time. The objects positions to be observed and the fibre configuration can be stored in a results file. 
 
@@ -79,7 +79,7 @@ In this ``fibres`` mode the user can perform several operations that can be sele
     (B1950.0) R.A.:  12 27 27.31  DEC.:  +12 37 27.43
     
 Simple exercise
----------------
+===============
 
 As a simple example to learn how to use **octpus** let's follow this exercise.
 We have a fibre spectrograph that can position the fibres in a 40'-diameter field. We then have 32 fibres for the interesting objects and for the sky background, and another 4 for the guiding stars (*fiducial fibres*).
@@ -105,7 +105,7 @@ At the end, a file will be saved with the results for each field.
    :width: 80%  
 
 Usage tips
-----------
+==========
 
 The coordinates of an image area can be obtained positioning the mouse in this place and pressing the ``Tab`` key. Then **octopus** will show, in the alphanumeric window, the position in equatorial coordinates and for the B1950 an J2000 equinoxes. This system is very useful to locate one particular object.
 
