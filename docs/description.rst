@@ -5,7 +5,11 @@ Description
 
 The **octopus** program is designed to visualize fields and fibres at the same time. The objects positions to be observed and the fibre configuration can be stored in a results file. 
 
-This is an example showing the program starting and the image *M8708wr.fits* loading:
+Note that three sample fields (``c1.fits``, ``c2.fits`` and ``c3.fits``) are
+provided together with the distributed code.
+
+This is an example showing the execution of the program making use of the first
+sample field ``c1.fits``:
 
 ::
 
@@ -17,7 +21,7 @@ This is an example showing the program starting and the image *M8708wr.fits* loa
     **************************************************
     
     Press <CR> to start...
-    Input file name? M8708wr.fits
+    Input file name? c1.fits
     ................
     printing of fits header
     ................
@@ -74,8 +78,8 @@ In this ``fibres`` mode the user can perform several operations that can be sele
     (J2000.0) R.A.:  12 29 59.19  DEC.:  +12 20 53.04
     (B1950.0) R.A.:  12 27 27.31  DEC.:  +12 37 27.43
     
-Input File
------------
+Simple exercise
+---------------
 
 As a simple example to learn how to use **octpus** let's follow this exercise.
 We have a fibre spectrograph that can position the fibres in a 40'-diameter field. We then have 32 fibres for the interesting objects and for the sky background, and another 4 for the guiding stars (*fiducial fibres*).
@@ -100,8 +104,8 @@ At the end, a file will be saved with the results for each field.
    :align: center
    :width: 80%  
 
-Suggestions
--------------
+Usage tips
+----------
 
 The coordinates of an image area can be obtained positioning the mouse in this place and pressing the ``Tab`` key. Then **octopus** will show, in the alphanumeric window, the position in equatorial coordinates and for the B1950 an J2000 equinoxes. This system is very useful to locate one particular object.
 
